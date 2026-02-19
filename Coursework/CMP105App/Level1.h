@@ -23,4 +23,8 @@ private:
 
 	Player m_player;
 
+	sf::Texture m_tileTexture;
+
+	GameObject m_switch;
+	GameObject m_flag;
 };
